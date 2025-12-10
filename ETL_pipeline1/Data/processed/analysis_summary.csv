@@ -1,0 +1,6 @@
+,0
+churn_percentage,25.6
+avg_monthly_charge_per_contract,"{'Month-to-month': 67.29799635701275, 'One year': 68.18406862745098, 'Two year': 63.26983805668016}"
+customer_loyalty_counts,"{'new': 321, 'regular': 268, 'champion': 209, 'loyal': 202}"
+internet_service_distribution,"{'Fiber optic': 468, 'DSL': 329, 'No': 203}"
+pivot_churn_by_tenure,"{'No': {'champion': 196, 'loyal': 169, 'new': 167, 'regular': 212}, 'Yes': {'champion': 13, 'loyal': 33, 'new': 154, 'regular': 56}}"
